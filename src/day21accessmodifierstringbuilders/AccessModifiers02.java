@@ -16,7 +16,7 @@ public class AccessModifiers02 {
   If we are in child class (sub-class) we can access them
   If we are in not a child class we can not access them
   
-4)For public calss members we can access them from everywhere 
+4)For public class members we can access them from everywhere 
 Note:For classes, "private" and "protected" access modifiers cannot be used
  */
     
