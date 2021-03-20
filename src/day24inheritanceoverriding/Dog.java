@@ -15,7 +15,7 @@ public class Dog extends Mammal {
 	
 	public Dog(boolean smellWell) {
 		super(true);
-		//If you do not type any parent constrcutor call inside the first line
+		//If you do not type any parent constructor call inside the first line
 		//Java uses the parent constructor without parameter automatically
 		
 		/*
