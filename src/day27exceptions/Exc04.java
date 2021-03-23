@@ -16,6 +16,10 @@ public class Exc04 {
 	
 	public static int getAge(int age) {
 		try{if(age<0) {
+			//How to throw "explicit exception"
+			//When we type a code, if we need to throw exception in anywhere, and anytime you can throw.
+			//Use "throw" keyword, then "new" keyword and the "constructor"
+
 			throw new IllegalArgumentException();
 			}
 		}catch(IllegalArgumentException e) {
