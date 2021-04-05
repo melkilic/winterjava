@@ -18,7 +18,7 @@ public class Maps02 {
 		hm2.put("horse", 5);
 		hm2.put("elephant", 8);
 		
-		System.out.println(hm2);
+//		System.out.println(hm2);
 		
 		System.out.println(hm1.equals(hm2));//true
 	}
